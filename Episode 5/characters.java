@@ -77,6 +77,6 @@ public class characters{
 		//A < B
 		//a < b
 		//Z > a
-		//from greater to lesser = ABCDEFGHIJKLMNOPQRSabcdefghijklmnopqrstuv
+		//from greater to lesser = ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz
 	}
 }
